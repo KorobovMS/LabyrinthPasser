@@ -1,0 +1,2 @@
+Application searches the way from enter to exit from any passable labyrinth.
+It uses OpenCV as library for reading labyrinth scheme and for writing the path from one dot to another.
